@@ -1,6 +1,24 @@
 # imoveis
-
-A new Flutter project.
+performed the creation of the 5 screens as described below:
+1st - Real estate rental
+• property photo
+•	Description
+2nd - Sale of real estate
+• property photo
+•	Description
+3rd - Add the property -
+• property photos
+• property description
+• button to add photos,
+• fields to add information, such as address, number of rooms, garage, living room, bathroom, and select the property type whether it is for sale or rent.
+4th - Screen to list the registered property with status.
+•	Available
+• Rented
+• Sold
+5th - Login screen
+•	Cell phone
+•	Password
+• Button - enter
 
 ## Getting Started
 
